@@ -1,4 +1,4 @@
-class Template-bun-executable < Formula
+class TemplateBunExecutable < Formula
   desc "Project template for a cross-platform Bun executable with ffi native library and Bun library dependencies."
   homepage "https://github.com/flowscripter/template-bun-executable"
   url "https://github.com/flowscripter/template-bun-executable/releases/download/vv1.1.2/template-bun-executable_MacOS_aarch64.zip"
