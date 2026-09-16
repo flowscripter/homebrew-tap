@@ -1,10 +1,10 @@
 class FlowscripterIoCli < Formula
   desc "Example CLI using https://github.com/flowscripter/pluggable-io-framework"
   homepage "https://github.com/flowscripter/flowscripter-io-cli"
-  url "https://github.com/flowscripter/flowscripter-io-cli/releases/download/v1.3.1/flowscripter-io-cli_MacOS_aarch64.zip"
-  sha256 "591524f44c516cf7e33fb9ec98ec819b91538a73f27e6fcbc28ce7c2e43a77c0"
+  url "https://github.com/flowscripter/flowscripter-io-cli/releases/download/v2.0.0/flowscripter-io-cli_MacOS_aarch64.zip"
+  sha256 "f90a76dfc735cb288265d23902181592a99a9b8a03ae00bce79f87881cc02fba"
   license "MIT"
-  version "v1.3.1"
+  version "v2.0.0"
 
   def install
     bin.install "flowscripter-io-cli"
