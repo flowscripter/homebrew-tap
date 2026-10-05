@@ -1,10 +1,10 @@
 class ExampleCli < Formula
   desc "Simple example CLI using https://github.com/flowscripter/dynamic-cli-framework"
   homepage "https://github.com/flowscripter/example-cli"
-  url "https://github.com/flowscripter/example-cli/releases/download/v3.0.6/example-cli_MacOS_aarch64.zip"
-  sha256 "ab280b32fc1e84cbf6c7423654fb939d697ec3cf1c55bcf3caae7b59a5bddf9c"
+  url "https://github.com/flowscripter/example-cli/releases/download/v3.0.7/example-cli_MacOS_aarch64.zip"
+  sha256 "197e541be6a4f8d661b57bca9f84693a53c11ee5c54b1e8e14dc255133ec4fd9"
   license "MIT"
-  version "v3.0.6"
+  version "v3.0.7"
 
   def install
     bin.install "example-cli"
