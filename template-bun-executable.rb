@@ -1,10 +1,10 @@
 class TemplateBunExecutable < Formula
   desc "Project template for a cross-platform Bun executable with ffi native library and Bun library dependencies."
   homepage "https://github.com/flowscripter/template-bun-executable"
-  url "https://github.com/flowscripter/template-bun-executable/releases/download/v1.3.38/template-bun-executable_MacOS_aarch64.zip"
-  sha256 "c9fffdf4ac452716d04530717adb97e7b337d938be46b1dd0e60237a751f1ab7"
+  url "https://github.com/flowscripter/template-bun-executable/releases/download/v1.3.39/template-bun-executable_MacOS_aarch64.zip"
+  sha256 "be409ba3e35059a99ad6c5eabd6c0eb8a5160c45b69bd1ab0d7f500d96f3eb37"
   license "MIT"
-  version "v1.3.38"
+  version "v1.3.39"
 
   def install
     bin.install "template-bun-executable"
