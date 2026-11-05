@@ -1,10 +1,10 @@
 class ExampleHostApplication < Formula
   desc "Example host application executable for the https://github.com/flowscripter/dynamic-plugin-framework"
   homepage "https://github.com/flowscripter/example-host-application"
-  url "https://github.com/flowscripter/example-host-application/releases/download/v1.2.44/example-host-application_MacOS_aarch64.zip"
-  sha256 "6e9d5d0ecadbe9b710be499916317c619ebdc7861158d2c492c700253264113a"
+  url "https://github.com/flowscripter/example-host-application/releases/download/v1.2.45/example-host-application_MacOS_aarch64.zip"
+  sha256 "68719d589b12951e193585740cf1f9b4f377596ff825d153f2100ebd37a714e4"
   license "MIT"
-  version "v1.2.44"
+  version "v1.2.45"
 
   def install
     bin.install "example-host-application"
